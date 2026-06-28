@@ -4,15 +4,6 @@ Team 102-06
 
 We are a team of 4 students
 
-Angela Zacharia,	azachari@uwaterloo.ca
-
-Jerry Zhang, 	j222zhan@uwaterloo.ca
-
-Tony Zhou, 	z472zhou@uwaterloo.ca
-
-Thomas Wu, t293wu@uwaterloo.ca
-
-
 Link to wiki: [KartingRoyale Wiki](https://git.uwaterloo.ca/j222zhan/kartingroyale/-/wikis/home)
 
 **Description**
